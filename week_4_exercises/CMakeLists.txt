@@ -99,7 +99,7 @@ find_package(catkin REQUIRED
 #   cfg/DynReconf2.cfg
 # )
 
-#add_subdirectory(msgs) # <======== UNCOMMENT THIS FOR 4.3
+add_subdirectory(msgs) # <======== UNCOMMENT THIS FOR 4.3
 
 ###################################
 ## catkin specific configuration ##
